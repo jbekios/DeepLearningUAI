@@ -17,3 +17,10 @@ mediante un conjunto de métricas.
 * **data_augmentation_codigo_alumnos.ipynb** Plantilla para trabajo de laboratorio.
 * **data_augmentation_codigo-completo.ipynb** Plantilla de aprendizaje supervisado de imágenes de perros y gatos con código completo.
 
+## 5. Redes recurrentes 
+
+* **Redes_recurrentes_Alumnos_C.ipynb** Plantilla laboratorio de redes neuronales recurrentes.
+* **redes_recurrentes_Alumnos-completo.ipynb** Laboratorio de redes neuronales recurrentes con código completo.
+* **lstmlab_alumnos.ipynb** Plantilla de laboratorio redes neuronales recurrentes LSTM. Predicción número de pasajeros.
+* **lstmlab_alumnos-completo.ipynb** Plantilla de laboratorio redes neuronales recurrentes LSTM con código completo.
+
